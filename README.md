@@ -1,4 +1,4 @@
-<h1 align="center">Good morning <img src="./assets/tim_cook.png"><h1 align="center">, I'm Michael</h1>
+<h1 align="center">Good morning <img src="./assets/tim_cook.png">, I'm Michael</h1>
 <h3 align="center">A ~nerd~ who likes gaming, programming, cinema and has a high sound quality standard;</h3>
 
 - 🔭 I’m currently working on [making my own cross-OS easy to setup config](https://github.com/rufuslevi/.dotfiles)
