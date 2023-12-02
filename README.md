@@ -1,7 +1,5 @@
 <h1 align="center">Good morning , I'm Michael</h1>
-<h3 align="center">A ~nerd~ who likes gaming, programming, cinema and quality sound;</h3>
-
-<p align="left"> <a href="https://twitter.com/rufuslevi42" target="blank"><img src="https://img.shields.io/twitter/follow/rufuslevi42?logo=twitter&style=for-the-badge" alt="rufuslevi42" /></a> </p>
+<h3 align="center">A ~nerd~ who likes gaming, programming, cinema and has a high sound quality standard;</h3>
 
 - 🔭 I’m currently working on [making my own cross-OS easy to setup config](https://github.com/rufuslevi/.dotfiles)
 
